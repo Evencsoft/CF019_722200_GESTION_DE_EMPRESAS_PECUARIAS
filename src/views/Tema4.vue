@@ -5,50 +5,33 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 4
-        h1 Parámetros reproductivos en las especies pecuarias
+        h1 Procedimientos estandarizados y de seguridad en el trabajo en la explotación destinada a la reproducción animal
       
       
       Separador
       .row
         .col-xl-12       
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.1 Fisiología de la reproducción natural
+        h2.my-5 4.1 Definición y aplicación del POE en reproducción natural
         
       Separador
       .row
         .col-xl-12       
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.2 Definición y descripción de ciclo estral de los animales domésticos
+        h2.my-5 4.2 Tipos, procedimiento, registros y manejo en reproducción natural
   
       Separador
       .row
         .col-xl-12       
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.3 Proceso reproductivo de la monta natural
+        h2.my-5 4.3 Buenas prácticas pecuarias en reproducción natural
   
       Separador
       .row
         .col-xl-12       
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.4 Cronograma de proceso de monta natural en animales domésticos
+        h2.my-5 4.4 Normas de salud y seguridad en el trabajo y medio ambiente en explotaciones pecuarias dedicadas a la reproducción animal
   
-      Separador
-      .row
-        .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.5 Comportamiento reproductivo animal
-  
-      Separador
-      .row
-        .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.6 Gestación por especie animal
-  
-      Separador
-      .row
-        .col-xl-12       
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-        h2.my-5 3.7 Evaluación de parámetros reproductivos
   
   </template>
 
