@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
+    p Se resume el componente formativo: Reproducción natural en las especies pecuarias, que trata los temas sobre la anatomía y bienestar animal en procesos productivos de la especie pecuaria, incluyendo la bioseguridad y manejo de los animales destinados para reproducción natural, teniendo en cuenta las enfermedades reproductivas. También se trata el tema sobre los parámetros productivos en la especie pecuaria, su fisiología, comportamiento reproductivo, de animales y la gestación, de la misma forma se destaca el tema sobre procedimientos estandarizados de seguridad en el trabajo, como también la explotación destinada a la reproducción animal, al mismo tiempo se resaltan las buenas prácticas pecuarias en procedimientos, registros y manejo en reproducción animal.
     p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
 
     .row.justify-content-center
