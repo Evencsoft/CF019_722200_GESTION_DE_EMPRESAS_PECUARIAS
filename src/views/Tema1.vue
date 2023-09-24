@@ -5,7 +5,39 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Reproducción natural en las especies pecuarias
+  
+    
+    
+    Separador
+    .row
+      .col-xl-12       
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.1	 Características reproductivas de las especies pecuarias
+
+    Separador
+    .row
+      .col-xl-12       
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.2	 Bienestar animal en proceso reproductivo de las especies pecuarias
+
+    Separador
+    .row
+      .col-xl-12       
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.3	 Anatomía del aparato reproductor de la hembra y el macho
+
+    Separador
+    .row
+      .col-xl-12       
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.4	 Celo
+
+    Separador
+    .row
+      .col-xl-12       
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2.my-5 1.5	 Mecanismos y herramientas para la detección del celo
       
 </template>
 
