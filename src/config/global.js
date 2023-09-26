@@ -3,12 +3,16 @@ export default {
     componenteFormativo: 'Reproducción natural en las especies pecuarias',
     descripcionCurso:
       'La reproducción es la base fundamental en los ciclos productivos, es el pedestal de la economía animal, porque un bajo índice de natalidad genera un retraso económico, pérdida de la rentabilidad y retardo en tiempos productivos. De allí, la gran importancia de la detección de celos para cada especie, el alistamiento de los animales para la monta, el seguimiento del cronograma productivo y reproductivo, el bienestar animal y otras actividades que coordinadamente impulsen la producción pecuaria.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },

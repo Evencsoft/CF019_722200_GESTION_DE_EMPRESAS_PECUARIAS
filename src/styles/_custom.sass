@@ -2,13 +2,14 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 50%
+    right: 80%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    width: 50px
+    animation: scale 1.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 20%
+    right: 15%
 
 
 @keyframes float1
@@ -17,3 +18,68 @@
 
   100%
     transform: translateY(0px)
+
+@-webkit-keyframes rotation 
+  from 
+    -webkit-transform: rotate(0deg)  
+  to 
+    -webkit-transform: rotate(359deg)
+
+@keyframes scale
+  0%
+    transform: scale(3)
+    
+  100%
+    transform: scale(1.2)
+
+.banner-principal__row
+  overflow: hidden
+  height: 450px
+
+@media (min-width: 1440px)
+  .banner-principal__img
+    width: 45%
+
+.bloque-derecha
+  .bloque-texto-g__img
+    left: auto
+    right: 0
+    width: 39%
+  .bloque-texto-g
+    justify-content: start
+  .bloque-texto-g__texto--border
+    position: relative
+    width: 67%
+  .bloque-texto-g__texto
+    width: 100%
+
+.cajon.color-secundario
+  background-color: #fffdea
+
+.bloque-texto-b.color-secundario:before 
+  background-color: #fffdea
+
+.lista-ol .lista-ul--color li 
+  display: block
+
+.banner-principal__componente
+  h1
+    color: #000000
+.banner-principal__descripcion
+  p
+    color: #000000
+  
+.text-decor
+  background: #1B3F5E
+  border-radius: 0px 20px 0px 20px
+  width: 40%
+  font-weight: bold
+
+.tarjeta-verde 
+    background-color: #DBF9BD
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
+  background-color: #DBF9BD
+
+.pt-0
+  background-color: #dbf9bd
